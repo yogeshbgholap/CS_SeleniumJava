@@ -20,6 +20,7 @@ public class Practice_One {
 			System.setProperty("webdriver.gecko.driver","F:\\java selenium\\driver\\geckodriver.exe");
 			WebDriver driver=new FirefoxDriver();
 			driver.get("https://www.google.co.in/");
+			driver.getTitle();)
 
 	}
 
