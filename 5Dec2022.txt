@@ -1,3 +1,6 @@
 hi amit
 how r u
-good morning
+good morning 
+
+how was the day?
+git hub 
